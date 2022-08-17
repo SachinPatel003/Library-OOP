@@ -1,0 +1,2 @@
+- Using Es6Class
+- Using Prototype
